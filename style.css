@@ -1,0 +1,57 @@
+body {
+    background-color: #7c1b1b;
+    background-image: linear-gradient(rgba(45, 49, 99, 0.219), rgba(53, 33, 78, 0.658)), url(./images/background\ Marathon.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body h1{
+    text-align: center;
+    color: rgb(190, 134, 134);
+    text-shadow: 2px 2px 4px #cc2d2d;
+    text-transform: uppercase;
+    font-size: 50px;
+    padding-top: 100px;
+    }
+
+.middle{
+    text-align: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    color: white;
+    font-size: 15px;
+
+}
+.name{
+    color: #f3f5f2;
+    text-align:left;
+    text-shadow: 2px 2px 4px #cc2d2d;
+
+    
+}
+p{
+    text-align: left;
+    color: rgb(253, 249, 249);
+    text-shadow: 2px 2px 4px #cc2d2d;
+    font-size: 20px;
+}
+.contact{
+    color: #f3f5f2;
+    text-align: left;
+    text-shadow: 2px 2px 4px #cc2d2d;
+}
+.race{
+    color: #f3f5f2;
+    text-align: left;
+    text-shadow: 2px 2px 4px #cc2d2d;
+}
+.ageGroup{
+    color: #f3f5f2;
+    text-align: left;
+    text-shadow: 2px 2px 4px #cc2d2d;
+}
+.shirtSize{
+    color: #f3f5f2;
+    text-align: left;
+    text-shadow: 2px 2px 4px #cc2d2d;
+}
